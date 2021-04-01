@@ -2,7 +2,7 @@ Type: Application
 Name: OneManagerPhp
 Version: 0.0.1
 Provider:
-  - Alibaba
+  - 阿里云
 Description: 部署在阿里云函数计算的OneManager
 HomePage: https://github.com/qkqpttgf/OneManager-php
 Tags:
